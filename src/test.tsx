@@ -24,7 +24,7 @@ export const TestMenu = (props: { text: string }) => {
                                 onClick={() => { console.log(''); }}
                                 className={`${active ? 'bg-gray-100' : ''} cursor-pointer block px-4 py-2 text-base text-gray-700`}
                             >
-                                Item 1
+                                Item 222222
                             </div>
                         )}
                     </Menu.Item>

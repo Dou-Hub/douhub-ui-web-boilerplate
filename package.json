@@ -18,20 +18,15 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.6.2",
-    "antd": "4.20.5",
-    "douhub-helper-util": "^1.0.91",
     "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-svg": "^14.1.9",
-    "uuid": "^8.3.2"
+    "react-svg": "^14.1.9"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.178",
-    "@types/node": "^17.0.33",
     "@types/react": "^17.0.38",
     "@types/react-dom": "^17.0.11",
-    "@types/uuid": "^8.3.4",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
     "autoprefixer": "^10.2.6",
